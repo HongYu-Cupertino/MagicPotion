@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "firstName": "Hong",
+    "lastName": "Yu",
+    "email": "hongyu@gmail.com",
+    "address": {
+      "street1": "123 main Street",
+      "street2": "",
+      "city": "Cupertino",
+      "state": "CA",
+      "zip": "95014"
+    },
+    "phone": "4081234567",
+    "quantity": 3,
+    "total": "149.97",
+    "payment": {
+      "ccNum": "1234567890123456",
+      "exp": "2022-03"
+    },
+    "orderDate": "09/01/2020",
+    "fulfilled": true
+  }
+]
